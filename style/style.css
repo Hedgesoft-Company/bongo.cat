@@ -26,7 +26,7 @@ body {
   -khtml-user-select: none;
   -webkit-user-select: none;
   user-select: none;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Helvetica;
   font-size: 14px
 }
 
@@ -370,3 +370,4 @@ select#select-instrument option {
     display: block
   }
 }
+/*Re-edited by Hedgesoft*/
